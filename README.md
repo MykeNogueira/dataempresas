@@ -2,7 +2,7 @@
 
 Introdução
 ----------------------------------------
-DataEmpresas é uma ferramenta facilita o manuseio dos dados da base de dados do CNPJ.  
+DataEmpresas é uma ferramenta que facilita o manuseio dos dados da base de dados do CNPJ.  
   
 Instalando
 ---------------------------------------
