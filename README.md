@@ -2,7 +2,7 @@
 
 ## O que é?
 
-**dataempresas** é uma ferramenta que facilita o manuseio dos dados da base de dados do CNPJ. O objetivo é retirar do analista as tarefas repetitivas que ocorrem ao lidar com a base.  
+**dataempresas** é uma ferramenta que facilita o manuseio dos microdados da CNPJ. O objetivo automar tarefas repetitivas de tratamento dos dados.
   
 
 ## Recursos:
