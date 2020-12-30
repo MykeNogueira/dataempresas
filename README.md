@@ -9,6 +9,7 @@
 
  - Download e extração dos microdados
  - Reorganização do layout dos dados em CSV
+ - Obtém e organiza os dicionários
  
 ## Instalando
 Usando o PIP, utilize o comando:
